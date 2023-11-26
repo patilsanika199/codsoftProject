@@ -1,1 +1,1 @@
-# codsoftProject
+# Calculator
